@@ -41,19 +41,5 @@ A simple Snake game built using **HTML, CSS, and JavaScript**. Control the snake
 
 ---
 
-## 📷 Screenshot  
-*(Include a screenshot of your game once it's ready!)*  
-
----
-
-## 💡 Future Improvements  
-
-- ✅ Add a score counter  
-- ✅ Add difficulty levels  
-- ✅ Mobile touch controls  
-- ✅ High-score tracking  
-
----
-
 ## 📝 License  
 This project is **open-source** and free to use.  
